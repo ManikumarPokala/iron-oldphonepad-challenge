@@ -9,3 +9,4 @@
 /Users/manikumarpokala/iron-oldphonepad-challenge/src/OldPhonePad/obj/Debug/net10.0/refint/OldPhonePad.dll
 /Users/manikumarpokala/iron-oldphonepad-challenge/src/OldPhonePad/obj/Debug/net10.0/OldPhonePad.pdb
 /Users/manikumarpokala/iron-oldphonepad-challenge/src/OldPhonePad/obj/Debug/net10.0/ref/OldPhonePad.dll
+/Users/manikumarpokala/iron-oldphonepad-challenge/src/OldPhonePad/obj/Debug/net10.0/OldPhonePad.sourcelink.json
